@@ -1,0 +1,11 @@
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Persistence/bin/Debug/net9.0/Persistence.deps.json
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Persistence/bin/Debug/net9.0/Persistence.dll
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Persistence/bin/Debug/net9.0/Persistence.pdb
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Persistence/obj/Debug/net9.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfoInputs.cache
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Persistence/obj/Debug/net9.0/Persistence.AssemblyInfo.cs
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Persistence/obj/Debug/net9.0/Persistence.csproj.CoreCompileInputs.cache
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Persistence/obj/Debug/net9.0/Persistence.dll
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Persistence/obj/Debug/net9.0/refint/Persistence.dll
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Persistence/obj/Debug/net9.0/Persistence.pdb
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Persistence/obj/Debug/net9.0/ref/Persistence.dll

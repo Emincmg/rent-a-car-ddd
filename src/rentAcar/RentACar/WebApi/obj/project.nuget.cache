@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pqYHK1O7P8Y=",
+  "success": true,
+  "projectFilePath": "/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/WebApi/WebApi.csproj",
+  "expectedPackageFiles": [
+    "/home/emin/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "/home/emin/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

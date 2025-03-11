@@ -1,0 +1,15 @@
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Domain/bin/Debug/net9.0/Domain.deps.json
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Domain/bin/Debug/net9.0/Domain.dll
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Domain/bin/Debug/net9.0/Domain.pdb
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Domain/bin/Debug/net9.0/Core.Persistance.dll
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Domain/bin/Debug/net9.0/Core.Persistance.pdb
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Domain/obj/Debug/net9.0/Domain.csproj.AssemblyReference.cache
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Domain/obj/Debug/net9.0/Domain.csproj.Up2Date
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Domain/obj/Debug/net9.0/Domain.dll
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Domain/obj/Debug/net9.0/refint/Domain.dll
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Domain/obj/Debug/net9.0/Domain.pdb
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Domain/obj/Debug/net9.0/ref/Domain.dll

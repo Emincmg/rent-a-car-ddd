@@ -1,0 +1,11 @@
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Application/bin/Debug/net9.0/Application.deps.json
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Application/bin/Debug/net9.0/Application.dll
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Application/bin/Debug/net9.0/Application.pdb
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Application/obj/Debug/net9.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Application/obj/Debug/net9.0/Application.AssemblyInfoInputs.cache
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Application/obj/Debug/net9.0/Application.AssemblyInfo.cs
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Application/obj/Debug/net9.0/Application.csproj.CoreCompileInputs.cache
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Application/obj/Debug/net9.0/Application.dll
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Application/obj/Debug/net9.0/refint/Application.dll
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Application/obj/Debug/net9.0/Application.pdb
+/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Application/obj/Debug/net9.0/ref/Application.dll

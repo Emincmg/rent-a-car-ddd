@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iIL5A1t2oxU=",
+  "success": true,
+  "projectFilePath": "/home/emin/RiderProjects/rentacar/src/rentAcar/RentACar/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/home/emin/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/home/emin/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/emin/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
