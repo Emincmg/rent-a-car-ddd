@@ -1,4 +1,4 @@
-namespace Core.Persistance.Repository;
+namespace Core.Persistance.Repositories;
 
 public class Entity<TId>
 {
